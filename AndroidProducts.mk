@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_ebba.mk
+    $(LOCAL_DIR)/arrow_ebba.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_ebba-user \
-    lineage_ebba-userdebug \
-    lineage_ebba-eng
+    arrow_ebba-user \
+    arrow_ebba-userdebug \
+    arrow_ebba-eng
